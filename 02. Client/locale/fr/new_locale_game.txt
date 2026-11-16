@@ -1,0 +1,23 @@
+READING_CANNOT_FAIL	La lecture ne peut pas échouer
+READING_MAY_FAIL	La lecture peut échouer
+SKILL_UPGPRADE_BUFFI	Buffi
+SKILL_UPGPRADE_PASSIVE	Passive
+SKILL_UPGPRADE_STANDARD	Standard
+SKILL_UPGPRADE_TITLE	Amélioration de compétence
+SKILL_UPGRADE_ALARM_OFF	Le rappel pour la compétence %s a été désactivé.
+SKILL_UPGRADE_ALARM_ON	Vous serez prévenu à la fin du temps d'attente de la compétence %s.
+SKILL_UPGRADE_ALARM_TOOLTIP	Prévenir à la fin du temps d'attente
+SKILL_UPGRADE_ALREADY_MAX	Cette compétence est déjà au niveau maximum.
+SKILL_UPGRADE_COOLDOWN	Temps d'attente : %02d:%02d:%02d
+SKILL_UPGRADE_NO_BOOK	Cette compétence ne peut pas encore être améliorée avec un livre.
+SKILL_UPGRADE_NO_BOOK_ITEM	Vous n'avez pas le livre de compétence requis.
+SKILL_UPGRADE_REMINDER_READY	Le temps d'attente de la compétence %s est écoulé, vous pouvez maintenant lire un livre.
+SKILL_UPGRADE_REMINDER_SENDER	[Rappel]
+SKILL_UPGRADE_RIGHT_CLICK_HINT	Clic droit : utiliser un livre de maîtrise / une pierre
+SKILL_UPGRADE_SELECTED_SKILL	Compétence : |cFFc79e65%s|h|r
+SKILL_UPGRADE_SOUL_STONE_NEGATIVE_GRADE_CONFIRM_1	Lire cette Pierre d'âme fera passer votre rang de compétence sous zéro.
+SKILL_UPGRADE_SOUL_STONE_NEGATIVE_GRADE_CONFIRM_2	Souhaitez-vous continuer.
+SKILL_UPGRADE_START	Début
+SKILL_UPGRADE_START_TOOLTIP	Ctrl + Clic : x10 sans animation
+SKILL_UPGRADE_TEXT	Sélectionner une compétence
+UPGRADE_SKILL_CHOOSE_SKILL	Vous devez choisir une compétence à améliorer.

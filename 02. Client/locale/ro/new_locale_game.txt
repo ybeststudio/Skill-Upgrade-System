@@ -1,0 +1,23 @@
+READING_CANNOT_FAIL	Citirea nu poate eºua
+READING_MAY_FAIL	Citirea poate esua
+SKILL_UPGPRADE_BUFFI	Buffi
+SKILL_UPGPRADE_PASSIVE	Pasiv
+SKILL_UPGPRADE_STANDARD	Standard
+SKILL_UPGPRADE_TITLE	Upgrader de abilitati
+SKILL_UPGRADE_ALARM_OFF	Memento-ul pentru abilitatea %s a fost oprit.
+SKILL_UPGRADE_ALARM_ON	Vei fi anunþat când se terminã timpul de aºteptare al abilitãþii %s.
+SKILL_UPGRADE_ALARM_TOOLTIP	Anunþã-mã când se terminã timpul de aºteptare
+SKILL_UPGRADE_ALREADY_MAX	Aceasta abilitate este deja la nivelul maxim.
+SKILL_UPGRADE_COOLDOWN	Timp de asteptare: %02d:%02d:%02d
+SKILL_UPGRADE_NO_BOOK	Aceastã abilitate nu poate fi încã îmbunãtãþitã cu cartea.
+SKILL_UPGRADE_NO_BOOK_ITEM	Nu ai cartea de abilitate necesarã.
+SKILL_UPGRADE_REMINDER_READY	Timpul de aºteptare al abilitãþii %s s-a terminat, poþi citi acum cartea.
+SKILL_UPGRADE_REMINDER_SENDER	[Memento]
+SKILL_UPGRADE_RIGHT_CLICK_HINT	Click dreapta: Foloseºte cartea de mãiestrie / piatra
+SKILL_UPGRADE_SELECTED_SKILL	Abilitate: |cFFc79e65%s|h|r
+SKILL_UPGRADE_SOUL_STONE_NEGATIVE_GRADE_CONFIRM_1	Reading this Soul Stone will drop your grade below zero.
+SKILL_UPGRADE_SOUL_STONE_NEGATIVE_GRADE_CONFIRM_2	Doresti sa continui?
+SKILL_UPGRADE_START	Inceput
+SKILL_UPGRADE_START_TOOLTIP	Ctrl + Click: x10 fãrã animaþie
+SKILL_UPGRADE_TEXT	Selectaþi o abilitate
+UPGRADE_SKILL_CHOOSE_SKILL	Trebuie sa alegeti o abilitate pentru a face upgrade.

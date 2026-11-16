@@ -1,0 +1,23 @@
+READING_CANNOT_FAIL	La lettura non può fallire
+READING_MAY_FAIL	La lettura potrebbe fallire
+SKILL_UPGPRADE_BUFFI	Buffi
+SKILL_UPGPRADE_PASSIVE	Passivo
+SKILL_UPGPRADE_STANDARD	Standard
+SKILL_UPGPRADE_TITLE	Miglioramento delle abilità
+SKILL_UPGRADE_ALARM_OFF	Promemoria disattivato per l'abilità %s.
+SKILL_UPGRADE_ALARM_ON	Verrai avvisato quando finirà il tempo di attesa dell'abilità %s.
+SKILL_UPGRADE_ALARM_TOOLTIP	Avvisa quando finisce il tempo di attesa
+SKILL_UPGRADE_ALREADY_MAX	Questa abilità è già al livello massimo.
+SKILL_UPGRADE_COOLDOWN	Tempo di attesa: %02d:%02d:%02d
+SKILL_UPGRADE_NO_BOOK	Questa abilità non può ancora essere potenziata con i libri.
+SKILL_UPGRADE_NO_BOOK_ITEM	Non possiedi il libro abilità necessario.
+SKILL_UPGRADE_REMINDER_READY	Il tempo di attesa dell'abilità %s è scaduto, ora puoi leggere il libro.
+SKILL_UPGRADE_REMINDER_SENDER	[Promemoria]
+SKILL_UPGRADE_RIGHT_CLICK_HINT	Clic destro: usa libro maestria / pietra
+SKILL_UPGRADE_SELECTED_SKILL	Abilità: |cFFc79e65%s|h|r
+SKILL_UPGRADE_SOUL_STONE_NEGATIVE_GRADE_CONFIRM_1	Leggere questa Pietra dell'Anima farà scendere il tuo grado sotto zero.
+SKILL_UPGRADE_SOUL_STONE_NEGATIVE_GRADE_CONFIRM_2	Vuoi continuare?
+SKILL_UPGRADE_START	Inizio
+SKILL_UPGRADE_START_TOOLTIP	Ctrl + Clic: x10 senza animazione
+SKILL_UPGRADE_TEXT	Seleziona un'abilità
+UPGRADE_SKILL_CHOOSE_SKILL	Devi scegliere un'abilità da aggiornare.

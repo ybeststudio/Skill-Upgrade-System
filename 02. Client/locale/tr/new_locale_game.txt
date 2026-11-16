@@ -1,0 +1,23 @@
+READING_CANNOT_FAIL	Okuma baþarýsýz olamaz
+READING_MAY_FAIL	Okuma baþarýsýz olabilir
+SKILL_UPGPRADE_BUFFI	Buffi
+SKILL_UPGPRADE_PASSIVE	Pasif
+SKILL_UPGPRADE_STANDARD	Standart
+SKILL_UPGPRADE_TITLE	Beceri Yükseltici
+SKILL_UPGRADE_ALARM_OFF	%s becerisi için hatýrlatma kapatýldý.
+SKILL_UPGRADE_ALARM_ON	%s becerisinin bekleme süresi bitince haber verilecek.
+SKILL_UPGRADE_ALARM_TOOLTIP	Bekleme süresi bitince haber ver
+SKILL_UPGRADE_ALREADY_MAX	Bu beceri zaten maksimum seviyede.
+SKILL_UPGRADE_COOLDOWN	Bekleme süresi: %02d:%02d:%02d
+SKILL_UPGRADE_NO_BOOK	Bu beceri henüz kitapla geliþtirilemez.
+SKILL_UPGRADE_NO_BOOK_ITEM	Gerekli beceri kitabýna sahip deðilsiniz.
+SKILL_UPGRADE_REMINDER_READY	%s becerisinin bekleme süresi doldu, artýk kitap okuyabilirsin.
+SKILL_UPGRADE_REMINDER_SENDER	[Hatýrlatýcý]
+SKILL_UPGRADE_RIGHT_CLICK_HINT	Sað týk: Ustalýk kitabý / taþý kullan
+SKILL_UPGRADE_SELECTED_SKILL	Beceri: |cFFc79e65%s|h|r
+SKILL_UPGRADE_SOUL_STONE_NEGATIVE_GRADE_CONFIRM_1	Bu Ruh Taþý'ný okumak, beceri kademeni sýfýrýn altýna düþürecek.
+SKILL_UPGRADE_SOUL_STONE_NEGATIVE_GRADE_CONFIRM_2	Devam etmek istiyor musun?
+SKILL_UPGRADE_START	Baþlangýç
+SKILL_UPGRADE_START_TOOLTIP	Ctrl + Týkla: animasyonsuz x10
+SKILL_UPGRADE_TEXT	Bir Beceri Seçin
+UPGRADE_SKILL_CHOOSE_SKILL	Yükseltmek için bir beceri seçmelisiniz.

@@ -1,0 +1,23 @@
+READING_CANNOT_FAIL	A leitura não pode falhar
+READING_MAY_FAIL	A leitura pode falhar
+SKILL_UPGPRADE_BUFFI	Buffi
+SKILL_UPGPRADE_PASSIVE	Passiva
+SKILL_UPGPRADE_STANDARD	Padrão
+SKILL_UPGPRADE_TITLE	Melhorador de Habilidades
+SKILL_UPGRADE_ALARM_OFF	O lembrete da habilidade %s foi desativado.
+SKILL_UPGRADE_ALARM_ON	Você será avisado quando o tempo de espera da habilidade %s acabar.
+SKILL_UPGRADE_ALARM_TOOLTIP	Avisar quando o tempo de espera acabar
+SKILL_UPGRADE_ALREADY_MAX	Esta habilidade já está no nível máximo.
+SKILL_UPGRADE_COOLDOWN	Tempo de espera: %02d:%02d:%02d
+SKILL_UPGRADE_NO_BOOK	Esta habilidade ainda não pode ser melhorada com livro.
+SKILL_UPGRADE_NO_BOOK_ITEM	Você não possui o livro de habilidade necessário.
+SKILL_UPGRADE_REMINDER_READY	O tempo de espera da habilidade %s acabou, você já pode ler o livro.
+SKILL_UPGRADE_REMINDER_SENDER	[Lembrete]
+SKILL_UPGRADE_RIGHT_CLICK_HINT	Clique direito: Usar livro de maestria / pedra
+SKILL_UPGRADE_SELECTED_SKILL	Habilidade: |cFFc79e65%s|h|r
+SKILL_UPGRADE_SOUL_STONE_NEGATIVE_GRADE_CONFIRM_1	Se leres esta Pedra da Alma, os teus Pontos de Karma vão ficar abaixo de zero.
+SKILL_UPGRADE_SOUL_STONE_NEGATIVE_GRADE_CONFIRM_2	Desejas continuar?
+SKILL_UPGRADE_START	Começo
+SKILL_UPGRADE_START_TOOLTIP	Ctrl + Clique: x10 sem animação
+SKILL_UPGRADE_TEXT	Seleciona uma habilidade
+UPGRADE_SKILL_CHOOSE_SKILL	Deves escolher uma habilidade para melhorar.

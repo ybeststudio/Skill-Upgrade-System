@@ -1,0 +1,23 @@
+READING_CANNOT_FAIL	·« Ì„ﬂ‰ √‰  ›‘· «·ﬁ—«¡…
+READING_MAY_FAIL	ﬁœ  ›‘· «·ﬁ—«¡…
+SKILL_UPGPRADE_BUFFI	Buffi
+SKILL_UPGPRADE_PASSIVE	”·»Ì…
+SKILL_UPGPRADE_STANDARD	ﬁÌ«”Ì…
+SKILL_UPGPRADE_TITLE	„ÿÊ— «·„Â«—« 
+SKILL_UPGRADE_ALARM_OFF	 „ ≈Ìﬁ«› «· –ﬂÌ— ··„Â«—… %s.
+SKILL_UPGRADE_ALARM_ON	”Ì „ ≈‘⁄«—ﬂ ⁄‰œ «‰ Â«¡ Êﬁ  «‰ Ÿ«— «·„Â«—… %s.
+SKILL_UPGRADE_ALARM_TOOLTIP	√»·€‰Ì ⁄‰œ «‰ Â«¡ Êﬁ  «·«‰ Ÿ«—
+SKILL_UPGRADE_ALREADY_MAX	Â–Â «·„Â«—… ›Ì √ﬁ’Ï „” ÊÏ »«·›⁄·.
+SKILL_UPGRADE_COOLDOWN	Êﬁ  «·«‰ Ÿ«—: %02d:%02d:%02d
+SKILL_UPGRADE_NO_BOOK	·« Ì„ﬂ‰  ÿÊÌ— Â–Â «·„Â«—… »«·ﬂ «» »⁄œ.
+SKILL_UPGRADE_NO_BOOK_ITEM	·Ì” ·œÌﬂ ﬂ «» «·„Â«—… «·„ÿ·Ê».
+SKILL_UPGRADE_REMINDER_READY	«‰ ÂÏ Êﬁ  «‰ Ÿ«— «·„Â«—… %s° Ì„ﬂ‰ﬂ «·¬‰ ﬁ—«¡… «·ﬂ «».
+SKILL_UPGRADE_REMINDER_SENDER	[«·„–ﬂ¯—]
+SKILL_UPGRADE_RIGHT_CLICK_HINT	‰ﬁ— √Ì„‰: «” Œœ„ ﬂ «»/ÕÃ— «·≈ ﬁ«‰
+SKILL_UPGRADE_SELECTED_SKILL	«·„Â«—…: |cFFc79e65%s|h|r
+SKILL_UPGRADE_SOUL_STONE_NEGATIVE_GRADE_CONFIRM_1	ﬁ—«¡… ÕÃ— «·—ÊÕ Â–« ” Œ›÷ ›∆… „Â«— ﬂ ≈·Ï „« œÊ‰ «·’›—.
+SKILL_UPGRADE_SOUL_STONE_NEGATIVE_GRADE_CONFIRM_2	Â·  —Ìœ «·„ «»⁄…ø
+SKILL_UPGRADE_START	»œ¡
+SKILL_UPGRADE_START_TOOLTIP	Ctrl + «‰ﬁ—: x10 »œÊ‰ —”Ê„ „ Õ—ﬂ…
+SKILL_UPGRADE_TEXT	«Œ — „Â«—…
+UPGRADE_SKILL_CHOOSE_SKILL	ÌÃ» «Œ Ì«— „Â«—… ·· —ﬁÌ….

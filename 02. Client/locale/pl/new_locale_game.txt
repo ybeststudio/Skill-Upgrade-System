@@ -1,0 +1,23 @@
+READING_CANNOT_FAIL	Czytanie nie mo¿e siê nie powieœæ
+READING_MAY_FAIL	Czytanie mo¿e siê nie powieœæ
+SKILL_UPGPRADE_BUFFI	Buffi
+SKILL_UPGPRADE_PASSIVE	Pasywny
+SKILL_UPGPRADE_STANDARD	Standard
+SKILL_UPGPRADE_TITLE	Ulepszacz umiejêtnoœci
+SKILL_UPGRADE_ALARM_OFF	Przypomnienie dla umiejêtnoœci %s zosta³o wy³¹czone.
+SKILL_UPGRADE_ALARM_ON	Powiadomimy ciê, gdy skoñczy siê czas odnowienia umiejêtnoœci %s.
+SKILL_UPGRADE_ALARM_TOOLTIP	Powiadom po zakoñczeniu odnowienia
+SKILL_UPGRADE_ALREADY_MAX	Ta umiejêtnoœæ jest ju¿ maksymalnie rozwiniêta.
+SKILL_UPGRADE_COOLDOWN	Czas oczekiwania: %02d:%02d:%02d
+SKILL_UPGRADE_NO_BOOK	Ta umiejêtnoœæ nie mo¿e jeszcze byæ ulepszana ksiêg¹.
+SKILL_UPGRADE_NO_BOOK_ITEM	Nie masz wymaganej ksiêgi umiejêtnoœci.
+SKILL_UPGRADE_REMINDER_READY	Czas odnowienia umiejêtnoœci %s dobieg³ koñca, mo¿esz ju¿ czytaæ ksiêgê.
+SKILL_UPGRADE_REMINDER_SENDER	[Przypomnienie]
+SKILL_UPGRADE_RIGHT_CLICK_HINT	PPM: u¿yj ksiêgi mistrzostwa / kamienia
+SKILL_UPGRADE_SELECTED_SKILL	Umiejêtnoœæ: |cFFc79e65%s|h|r
+SKILL_UPGRADE_SOUL_STONE_NEGATIVE_GRADE_CONFIRM_1	Po przeczytaniu tego kamienia, twoja ranga spadnie poni¿ej zera
+SKILL_UPGRADE_SOUL_STONE_NEGATIVE_GRADE_CONFIRM_2	Czy chcesz kontynuowaæ?
+SKILL_UPGRADE_START	Pocz¹tek
+SKILL_UPGRADE_START_TOOLTIP	Ctrl + klik: x10 bez animacji
+SKILL_UPGRADE_TEXT	Wybierz umiejêtnoœæ
+UPGRADE_SKILL_CHOOSE_SKILL	Musisz wybraæ umiejêtnoœæ, któr¹ chcesz ulepszyæ.

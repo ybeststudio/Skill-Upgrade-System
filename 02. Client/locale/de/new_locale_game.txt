@@ -1,0 +1,23 @@
+READING_CANNOT_FAIL	Das Lesen kann nicht fehlschlagen
+READING_MAY_FAIL	Lesen kann fehlschlagen
+SKILL_UPGPRADE_BUFFI	Buff
+SKILL_UPGPRADE_PASSIVE	Passiv
+SKILL_UPGPRADE_STANDARD	Standard
+SKILL_UPGPRADE_TITLE	Fertigkeitenverbesserer
+SKILL_UPGRADE_ALARM_OFF	Die Erinnerung für die Fertigkeit %s wurde ausgeschaltet.
+SKILL_UPGRADE_ALARM_ON	Du wirst benachrichtigt, wenn die Abklingzeit der Fertigkeit %s abgelaufen ist.
+SKILL_UPGRADE_ALARM_TOOLTIP	Bei Ende der Abklingzeit benachrichtigen
+SKILL_UPGRADE_ALREADY_MAX	Diese Fertigkeit ist bereits auf Maximalstufe.
+SKILL_UPGRADE_COOLDOWN	Wartezeit: %02d:%02d:%02d
+SKILL_UPGRADE_NO_BOOK	Diese Fertigkeit kann noch nicht mit einem Buch verbessert werden.
+SKILL_UPGRADE_NO_BOOK_ITEM	Du hast das benötigte Fertigkeitsbuch nicht.
+SKILL_UPGRADE_REMINDER_READY	Die Abklingzeit der Fertigkeit %s ist abgelaufen, du kannst jetzt ein Buch lesen.
+SKILL_UPGRADE_REMINDER_SENDER	[Erinnerung]
+SKILL_UPGRADE_RIGHT_CLICK_HINT	Rechtsklick: Meisterbuch / Stein verwenden
+SKILL_UPGRADE_SELECTED_SKILL	Fertigkeit: |cFFc79e65%s|h|r
+SKILL_UPGRADE_SOUL_STONE_NEGATIVE_GRADE_CONFIRM_1	Das Lesen dieses Seelensteins wird deinen Rang unter 0 senken.
+SKILL_UPGRADE_SOUL_STONE_NEGATIVE_GRADE_CONFIRM_2	Möchtest du fortfahren?
+SKILL_UPGRADE_START	Anfang
+SKILL_UPGRADE_START_TOOLTIP	Strg + Klick: x10 ohne Animation
+SKILL_UPGRADE_TEXT	Wähle eine Fertigkeit
+UPGRADE_SKILL_CHOOSE_SKILL	Wähle eine Fertigkeit zum Verbessern.

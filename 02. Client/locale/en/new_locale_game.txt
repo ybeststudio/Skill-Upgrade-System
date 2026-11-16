@@ -1,0 +1,23 @@
+READING_CANNOT_FAIL	Reading cannot fail
+READING_MAY_FAIL	Reading may fail
+SKILL_UPGPRADE_BUFFI	Buffi
+SKILL_UPGPRADE_PASSIVE	Passive
+SKILL_UPGPRADE_STANDARD	Standard
+SKILL_UPGPRADE_TITLE	Skill Upgrader
+SKILL_UPGRADE_ALARM_OFF	Reminder turned off for the skill %s.
+SKILL_UPGRADE_ALARM_ON	You will be notified when the cooldown of the skill %s ends.
+SKILL_UPGRADE_ALARM_TOOLTIP	Notify when the cooldown ends
+SKILL_UPGRADE_ALREADY_MAX	This skill is already at maximum level.
+SKILL_UPGRADE_COOLDOWN	Wait time: %02d:%02d:%02d
+SKILL_UPGRADE_NO_BOOK	This skill cannot be improved with a book yet.
+SKILL_UPGRADE_NO_BOOK_ITEM	You do not have the required skill book.
+SKILL_UPGRADE_REMINDER_READY	The cooldown of the skill %s is over, you can read books now.
+SKILL_UPGRADE_REMINDER_SENDER	[Reminder]
+SKILL_UPGRADE_RIGHT_CLICK_HINT	Right click: Use mastery book / stone
+SKILL_UPGRADE_SELECTED_SKILL	Skill: |cFFc79e65%s|h|r
+SKILL_UPGRADE_SOUL_STONE_NEGATIVE_GRADE_CONFIRM_1	Reading this Soul Stone will drop your grade below zero.
+SKILL_UPGRADE_SOUL_STONE_NEGATIVE_GRADE_CONFIRM_2	Do you want to continue?
+SKILL_UPGRADE_START	Beginning
+SKILL_UPGRADE_START_TOOLTIP	Ctrl + Click: x10 without animation
+SKILL_UPGRADE_TEXT	Select a Skill
+UPGRADE_SKILL_CHOOSE_SKILL	You must choose a skill to upgrade.

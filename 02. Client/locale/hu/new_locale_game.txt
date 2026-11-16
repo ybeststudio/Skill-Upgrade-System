@@ -1,0 +1,23 @@
+READING_CANNOT_FAIL	Az olvasás nem lehet sikertelen
+READING_MAY_FAIL	Az olvasás sikertelen lehet
+SKILL_UPGPRADE_BUFFI	Buff
+SKILL_UPGPRADE_PASSIVE	Passzív
+SKILL_UPGPRADE_STANDARD	Standard
+SKILL_UPGPRADE_TITLE	Képességfejlesztõ
+SKILL_UPGRADE_ALARM_OFF	A(z) %s képesség emlékeztetõje kikapcsolva.
+SKILL_UPGRADE_ALARM_ON	Értesítünk, amikor a(z) %s képesség várakozási ideje lejár.
+SKILL_UPGRADE_ALARM_TOOLTIP	Értesítés a várakozási idõ lejártakor
+SKILL_UPGRADE_ALREADY_MAX	Ez a képesség már a maximális szinten van.
+SKILL_UPGRADE_COOLDOWN	Várakozási idõ: %02d:%02d:%02d
+SKILL_UPGRADE_NO_BOOK	Ez a képesség még nem fejleszthetõ könyvvel.
+SKILL_UPGRADE_NO_BOOK_ITEM	Nincs meg a szükséges képességkönyv.
+SKILL_UPGRADE_REMINDER_READY	A(z) %s képesség várakozási ideje lejárt, most már olvashatsz könyvet.
+SKILL_UPGRADE_REMINDER_SENDER	[Emlékeztetõ]
+SKILL_UPGRADE_RIGHT_CLICK_HINT	Jobb klikk: Mesterkönyv / kõ használata
+SKILL_UPGRADE_SELECTED_SKILL	Képesség: |cFFc79e65%s|h|r
+SKILL_UPGRADE_SOUL_STONE_NEGATIVE_GRADE_CONFIRM_1	Ennek a Lélekkõnek az elolvasása a képességfokozatodat nulla alá csökkenti.
+SKILL_UPGRADE_SOUL_STONE_NEGATIVE_GRADE_CONFIRM_2	Folytatod?
+SKILL_UPGRADE_START	Kezdet
+SKILL_UPGRADE_START_TOOLTIP	Ctrl + Kattintás: x10 animáció nélkül
+SKILL_UPGRADE_TEXT	Válasszon egy készséget
+UPGRADE_SKILL_CHOOSE_SKILL	Ki kell választania egy képességet a frissítéshez.

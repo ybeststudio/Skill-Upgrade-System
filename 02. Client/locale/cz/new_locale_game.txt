@@ -1,0 +1,23 @@
+READING_CANNOT_FAIL	Ètení nemùže selhat
+READING_MAY_FAIL	Ètení mùže selhat
+SKILL_UPGPRADE_BUFFI	Buffi
+SKILL_UPGPRADE_PASSIVE	Pasivní
+SKILL_UPGPRADE_STANDARD	Standardní
+SKILL_UPGPRADE_TITLE	Upgrade dovedností
+SKILL_UPGRADE_ALARM_OFF	Pøipomenutí pro dovednost %s bylo vypnuto.
+SKILL_UPGRADE_ALARM_ON	Po skonèení doby obnovy dovednosti %s budeš upozornìn.
+SKILL_UPGRADE_ALARM_TOOLTIP	Upozornit po skonèení doby obnovy
+SKILL_UPGRADE_ALREADY_MAX	Tato dovednost je již na maximální úrovni.
+SKILL_UPGRADE_COOLDOWN	Èekací doba: %02d:%02d:%02d
+SKILL_UPGRADE_NO_BOOK	Tuto dovednost zatím nelze vylepšit knihou.
+SKILL_UPGRADE_NO_BOOK_ITEM	Nemáš potøebnou knihu dovedností.
+SKILL_UPGRADE_REMINDER_READY	Doba obnovy dovednosti %s skonèila, nyní mùžeš èíst knihu.
+SKILL_UPGRADE_REMINDER_SENDER	[Pøipomenutí]
+SKILL_UPGRADE_RIGHT_CLICK_HINT	Pravý klik: Použít knihu mistrovství / kámen
+SKILL_UPGRADE_SELECTED_SKILL	Dovednost: |cFFc79e65%s|h|r
+SKILL_UPGRADE_SOUL_STONE_NEGATIVE_GRADE_CONFIRM_1	Pøeètení tohoto Kamene duše sníží tvùj stupeò dovednosti pod nulu.
+SKILL_UPGRADE_SOUL_STONE_NEGATIVE_GRADE_CONFIRM_2	Chceš pokraèovat?
+SKILL_UPGRADE_START	Zaèátek
+SKILL_UPGRADE_START_TOOLTIP	Ctrl + klik: x10 bez animace
+SKILL_UPGRADE_TEXT	Vyberte dovednost
+UPGRADE_SKILL_CHOOSE_SKILL	Musíte si vybrat dovednost, kterou chcete upgradovat.
